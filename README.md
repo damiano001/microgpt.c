@@ -140,14 +140,7 @@ The C implementation achieves remarkable performance gains through:
 
 Despite these optimizations, the algorithm remains identical to the Python version, producing equivalent training loss and generation quality.
 
-## File Structure
 
-```
-microgpt.c          # Main implementation (731 lines)
-input.txt           # Training dataset (auto-downloaded)
-README.md           # This file
-output.txt          # Performance comparison results
-```
 
 ## Acknowledgments
 
