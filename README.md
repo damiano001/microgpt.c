@@ -1,6 +1,6 @@
 # MicroGPT C Implementation
 
-A highly optimized C implementation of Andrej Karpathy's [microgpt.py](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95), demonstrating significant performance improvements over the original Python version while maintaining identical algorithmic behavior.
+C implementation of Andrej Karpathy's [microgpt.py](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95), built out of pure curiosity to see C performance over Python.
 
 ## Overview
 
